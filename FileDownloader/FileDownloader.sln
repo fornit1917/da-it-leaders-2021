@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileDownloaderApp", "FileDownloader\FileDownloaderApp.csproj", "{63BC9E30-9EE7-4041-A1B3-4E2B1B326655}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileDownloaderLib", "FileDownloaderLib\FileDownloaderLib.csproj", "{4C173146-EC0D-447F-A75E-86727A640BE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63BC9E30-9EE7-4041-A1B3-4E2B1B326655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63BC9E30-9EE7-4041-A1B3-4E2B1B326655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63BC9E30-9EE7-4041-A1B3-4E2B1B326655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63BC9E30-9EE7-4041-A1B3-4E2B1B326655}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C173146-EC0D-447F-A75E-86727A640BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C173146-EC0D-447F-A75E-86727A640BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C173146-EC0D-447F-A75E-86727A640BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C173146-EC0D-447F-A75E-86727A640BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34E540A6-0CA8-4F7B-8979-803E5EE5CEEE}
+	EndGlobalSection
+EndGlobal
